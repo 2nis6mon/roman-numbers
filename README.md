@@ -1,6 +1,9 @@
 ## roman-numbers
 
-On cherche à écrire un programme pour convertir un nombre entier positif entre 1 et 3999 en chiffres romains, et réciproquement.
+Notre client Titus César qui arrive de l’Empire Romain ne comprends pas les chiffres arabes. Pour résoudre son problème, Titus souhaite un programme pour traduire un nombre entier positif entre 1 et 3999 en chiffres romaines.
+
+## Rappel
+
 On rappelle la valeur des chiffres romains : I=1 V=5 X=10 L=50 C=100 D=500 M=1000
 
 On rappelle aussi les règles d’écriture des nombres en chiffres romains :
